@@ -19,11 +19,10 @@
 :root {
   --swiper-theme-color: #007aff;
 }
+
 .swiper-container {
   width: 600px;
   height: 300px;
-}
-.swiper-container {
   margin-left: auto;
   margin-right: auto;
   position: relative;
