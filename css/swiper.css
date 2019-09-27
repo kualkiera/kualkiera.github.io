@@ -20,6 +20,9 @@
   --swiper-theme-color: #007aff;
 }
 
+.h1 {
+  text-align: center
+}
 .swiper-container {
   width: 600px;
   height: 300px;
